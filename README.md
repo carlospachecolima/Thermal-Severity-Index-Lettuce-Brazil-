@@ -4,10 +4,10 @@ This repository gathers maps of the **thermal severity index for lettuce crops (
 
 Repository Structure
 - `data/` — JPEG maps organized by **season** (`winter/`, `autumn/`, `spring/`, `summer/`) and **time period**:
-  - `historico/` = historical baseline  
-  - `curto_prazo/` = near future (Present–2040)  
-  - `medio_prazo/` = mid-century (2041–2070)  
-  - `longo_prazo/` = end of century (2071–2100)
+  - `historical/` = historical baseline  
+  - `near future/` = near future (Present–2040)  
+  - `Mid-century/` = mid-century (2041–2070)  
+  - `End of century/` = end of century (2071–2100)
 - `docs/` — documentation (methodology, license).
 - `scripts/` — reserved space for reproducible workflows (PyQGIS/processing).
 
